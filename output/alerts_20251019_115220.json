@@ -1,0 +1,12 @@
+[
+  {
+    "time": "2025-10-10T13:57:10",
+    "threshold": "SSH_FAIL_per_ip_per_5min",
+    "group_by": "ip",
+    "group_value": "203.0.113.10",
+    "rule_id": "SSH_FAIL",
+    "count_in_window": 5,
+    "window_minutes": 5,
+    "action": "ALERT"
+  }
+]
