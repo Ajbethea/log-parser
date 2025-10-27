@@ -52,11 +52,4 @@ Edit `config.json` to add/remove rules or thresholds. Example threshold included
 - Add email/webhook notifications for alerts
 - Add GeoIP lookup (requires a library and DB)
 
-## Screenshots
 
-![Log Parser Run](./assets/powershell_run.png)
-![CSV Findings](./assets/csv_findings.png)
-![Alert JSON](./assets/alert_json.png)
-
-- Add JSON/YAML rule loading with nested field extraction
-- Package as a CLI (`pipx`-installable) with tests
